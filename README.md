@@ -124,5 +124,5 @@ bash
 
 *G Gangadhar*\
 
-- 🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/gangadhar-guruginzakunta)/)\
+- 🔗 Linkedin : https://www.linkedin.com/in/gangadhar-guruginzakunta
   
